@@ -1,6 +1,6 @@
 == README
 
-Coder Manuel Project Application
+
 Subscription-based web application
 
 
